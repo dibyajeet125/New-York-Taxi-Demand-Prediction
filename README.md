@@ -33,3 +33,5 @@ Model Implementation: Baseline and advanced model implementations with hyperpara
 Evaluation: Scripts for calculating MAPE and comparing model performances.
 
 This project showcases a comprehensive approach to predicting taxi demand, providing insights into urban mobility optimization and fleet management strategies.
+
+DATASET LINK: https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data
